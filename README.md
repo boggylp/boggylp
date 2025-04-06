@@ -6,11 +6,13 @@ Welcome to my GitHub! I'm a freelance full-stack software engineer specialized i
 
 Here are some of the technologies I work with regularly:
 
-<img src="./assets/azure.png" width="32" height="32" alt="azure">
-<img src="./assets/csharp.png" width="32" height="32" alt="csharp">
-<img src="./assets/dotnet.png" width="32" height="32" alt="dotnet">
-<img src="./assets/react.png" width="32" height="32" alt="react">
-<img src="./assets/typescript.png" width="32" height="32" alt="typescript">
+<div>
+  <img src="./assets/azure.png" width="32" height="32" alt="azure">
+  <img src="./assets/csharp.png" width="32" height="32" alt="csharp">
+  <img src="./assets/dotnet.png" width="32" height="32" alt="dotnet">
+  <img src="./assets/react.png" width="32" height="32" alt="react">
+  <img src="./assets/typescript.png" width="32" height="32" alt="typescript">
+</div>
 
 - Languages: C#, JavaScript/TypeScript, Python, Powershell
 - Frontend: React, Redux, Webpack, styled-components
