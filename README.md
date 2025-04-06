@@ -16,7 +16,7 @@ Here are some of the technologies I work with regularly:
 
 - Languages: C#, JavaScript/TypeScript, Python, Powershell
 - Frontend: React, Redux, Webpack, styled-components
-- Backend: Microsoft .NET 6+
+- Backend: Microsoft .NET 6+, Python
 - Cloud & DevOps: Azure Services (Functions, App Services, Storage), Azure Bicep
 - Databases: SQL Server, Azure Cosmos Db, Azure Table storage
 - Other Tools: Git, Azure pipelines for CI/CD
