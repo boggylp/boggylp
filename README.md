@@ -16,7 +16,7 @@ Here are some of the technologies I work with regularly:
 
 - Languages: C#, JavaScript/TypeScript, Python, Powershell
 - Frontend: React, Redux, Webpack, styled-components
-- Backend: Microsoft .NET 6+, Python
+- Backend: Microsoft .NET, Python
 - Cloud & DevOps: Azure Services (Functions, App Services, Storage), Azure Bicep
 - Databases: SQL Server, Azure Cosmos Db, Azure Table storage
 - Other Tools: Git, Azure pipelines for CI/CD
@@ -26,14 +26,11 @@ Here are some of the technologies I work with regularly:
 Everybody develops their own opinions, so I am no exception to the rule:
 
 - "It depends", on what? Developer communication should be as clear as possible
-- Code styling should be standardized, in service to readability, use formatters
 - Start simple, grow in complexity when needed
-  - i.e. do not use Automapper in your projects on first sign of transforming from DTO to domain model
-  - i.e. do not introduce DDD in a microservice which is basically a simple CRUD
 - Try to automate your repeatable simple work
-- Learn you keyboard shortcuts in your editor of choice (or vim)
+- Learn you keyboard shortcuts in your editor of choice
 - Terminal is your friend, shoutout to all open source devs working on amazing terminal tools like [fzf](https://github.com/junegunn/fzf), [zoxide](https://github.com/ajeetdsouza/zoxide)...
-- Big fan of keeping your documentation close to source code instead of separate apps like confluence
+- Big fan of keeping your documentation close to source code instead of separate locations
 - Software is getting worse in quality, we are riding the wave of technological advancement in hardware 🌶️
 - Tech debt is called debt for a good reason
 
