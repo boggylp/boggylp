@@ -43,7 +43,7 @@ Everybody develops their own opinions, so I am no exception to the rule:
 - Try to automate your repeatable simple work
 - Learn you keyboard shortcuts in your editor of choice
 - Terminal is your friend, shoutout to all open source devs working on amazing terminal tools like [fzf](https://github.com/junegunn/fzf), [zoxide](https://github.com/ajeetdsouza/zoxide)...
-- Big fan of keeping your documentation close to source code instead of separate locations
+- Documentation stays close to the code and notes decisions, not what the code already says
 - Software is getting worse in quality, we are riding the wave of technological advancement in hardware 🌶️
 - The amount of context a human can grasp is greater than the amount of context a human [communicate](https://www.youtube.com/watch?v=ZSRHeXYDLko)
 - Assume positive intent, with [cooperation](https://www.youtube.com/watch?v=mScpHTIi-kM) we win in the long run
@@ -51,7 +51,7 @@ Everybody develops their own opinions, so I am no exception to the rule:
 - An agent is a model plus a [harness](https://earendil.com/posts/what-is-a-harness/): own the harness, swap the model
 - Use AI to make answers [clearer, not longer](https://noslopgrenade.com/), and [don't paste the AI](https://dontpastetheai.com/)
 
-![amount of lies](./assets/amount-of-lies.png)
+<img src="./assets/amount-of-lies.png" width="480" alt="amount of lies">
 
 ![digimon-izzy](./assets/digimon-izzy.gif)
 
