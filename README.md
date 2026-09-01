@@ -37,7 +37,9 @@ Philosophy:
 
 <sub>I became an [accidental open source contributor](https://github.com/nicobailon/pi-subagents/pull/1804).</sub>
 
-![amount of lies](./assets/lies-chart.png)
+<p align="center">
+  <img src="./assets/lies-chart-rounded.png" alt="amount of lies">
+</p>
 
 ## 🧠 Some thoughts
 
@@ -51,6 +53,8 @@ Everybody develops their own opinions, so I am no exception to the rule:
 - Software is getting worse in quality, we are riding the wave of technological advancement in hardware 🌶️
 - Software [fundamentals matter more than ever](https://youtu.be/v4F1gFy-hqg)
 
-![digimon-izzy](./assets/digimon-izzy.gif)
+<p align="center">
+  <img src="./assets/digimon-izzy-rounded.gif" alt="digimon-izzy">
+</p>
 
 You have reached the end of this profile.
