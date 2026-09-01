@@ -51,7 +51,7 @@ Everybody develops their own opinions, so I am no exception to the rule:
 - An agent is a model plus a [harness](https://earendil.com/posts/what-is-a-harness/): own the harness, swap the model
 - Use AI to make answers [clearer, not longer](https://noslopgrenade.com/), and [don't paste the AI](https://dontpastetheai.com/)
 
-<img src="./assets/amount-of-lies.png" width="480" alt="amount of lies">
+![amount of lies](./assets/amount-of-lies.png)
 
 ![digimon-izzy](./assets/digimon-izzy.gif)
 
