@@ -42,7 +42,6 @@ Philosophy:
 Everybody develops their own opinions, so I am no exception to the rule:
 
 - "It depends", on what? Developer communication should be as clear as possible
-- Start simple, grow in complexity when needed
 - Try to automate your repeatable simple work
 - Learn you keyboard shortcuts in your editor of choice
 - Terminal is your friend, shoutout to all open source devs working on amazing terminal tools like [fzf](https://github.com/junegunn/fzf), [zoxide](https://github.com/ajeetdsouza/zoxide)...
