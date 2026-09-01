@@ -47,7 +47,7 @@ Everybody develops their own opinions, so I am no exception to the rule:
 - The amount of context a human can grasp is greater than the amount of context a human [communicate](https://www.youtube.com/watch?v=ZSRHeXYDLko)
 - Assume positive intent, with [cooperation](https://www.youtube.com/watch?v=mScpHTIi-kM) we win in the long run
 - Software [fundamentals matter more than ever](https://youtu.be/v4F1gFy-hqg)
-- An agent is a model plus a [harness](https://earendil.com/posts/what-is-a-harness/): own the harness, swap the model
+- An agent is a model plus a [harness](https://earendil.com/posts/what-is-a-harness/): own a [minimal one](https://www.youtube.com/watch?v=RjfbvDXpFls), swap the model
 - Use AI to make answers [clearer, not longer](https://noslopgrenade.com/), and [don't paste the AI](https://dontpastetheai.com/)
 
 ![amount of lies](./assets/amount-of-lies.png)
