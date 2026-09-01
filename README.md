@@ -1,8 +1,8 @@
 # Hi, I'm Goran, nice to meet you
 
-Welcome to my GitHub! I'm a freelance full-stack software engineer specialized in cloud-based solutions using .NET and Azure. I contribute to many clients' internal shared packages and frameworks on all fronts: frontend, backend, and DevOps.
-
 > "Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better." - Edsger W. Dijkstra
+
+Welcome to my GitHub! I'm a freelance full-stack software engineer specialized in cloud-based solutions using .NET and Azure. I contribute to many clients' internal shared packages and frameworks on all fronts: frontend, backend, and DevOps.
 
 ## 🛠️ My Toolbox
 
