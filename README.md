@@ -27,6 +27,9 @@ Here are some of the technologies I work with regularly:
 
 Daily drivers: Claude Code and [Pi](https://github.com/earendil-works/pi).
 
+- Own your [harness](https://earendil.com/posts/what-is-a-harness/) and keep it [minimal](https://www.youtube.com/watch?v=RjfbvDXpFls), models come and go
+- Use AI to make answers [clearer, not longer](https://noslopgrenade.com/), and [don't paste the AI](https://dontpastetheai.com/)
+
 Philosophy:
 
 - Simplicity is king. Minimal config, minimal surface area.
@@ -49,10 +52,7 @@ Everybody develops their own opinions, so I am no exception to the rule:
 - Good primitives beat special cases: one that composes replaces them all
 - Software is getting worse in quality, we are riding the wave of technological advancement in hardware 🌶️
 - The amount of context a human can grasp is greater than the amount of context a human [communicate](https://www.youtube.com/watch?v=ZSRHeXYDLko)
-- Assume positive intent, with [cooperation](https://www.youtube.com/watch?v=mScpHTIi-kM) we win in the long run
 - Software [fundamentals matter more than ever](https://youtu.be/v4F1gFy-hqg)
-- Own your [harness](https://earendil.com/posts/what-is-a-harness/) and keep it [minimal](https://www.youtube.com/watch?v=RjfbvDXpFls), models come and go
-- Use AI to make answers [clearer, not longer](https://noslopgrenade.com/), and [don't paste the AI](https://dontpastetheai.com/)
 
 ![digimon-izzy](./assets/digimon-izzy.gif)
 
