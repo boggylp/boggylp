@@ -50,7 +50,7 @@ Everybody develops their own opinions, so I am no exception to the rule:
 - Own your [harness](https://earendil.com/posts/what-is-a-harness/) and keep it [minimal](https://www.youtube.com/watch?v=RjfbvDXpFls) — models come and go
 - Use AI to make answers [clearer, not longer](https://noslopgrenade.com/), and [don't paste the AI](https://dontpastetheai.com/)
 
-![amount of lies](./assets/amount-of-lies.png)
+![amount of lies](./assets/lies-chart.png)
 
 ![digimon-izzy](./assets/digimon-izzy.gif)
 
