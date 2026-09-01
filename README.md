@@ -35,7 +35,7 @@ Philosophy:
 
 <sub>I became an [accidental open source contributor](https://github.com/nicobailon/pi-subagents/pull/1804).</sub>
 
-## Some thoughts 🧠
+## 🧠 Some thoughts
 
 Everybody develops their own opinions, so I am no exception to the rule:
 
