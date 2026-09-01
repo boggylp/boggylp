@@ -15,7 +15,7 @@ Here are some of the technologies I work with regularly:
 </div>
 
 - Languages: C#, JavaScript/TypeScript, Python, Go, Powershell (and Rust, if I ever find the time)
-- Frontend: React, Redux, Webpack, styled-components
+- Frontend: React, Redux, TanStack Query, Webpack, Tailwind CSS, styled-components
 - Backend: Microsoft .NET, Python
 - Cloud & DevOps: Azure Services (Functions, App Services, Storage), Azure Bicep
 - Databases: SQL Server, SQLite, Azure Cosmos Db, Azure Table storage
