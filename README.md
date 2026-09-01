@@ -35,6 +35,8 @@ Philosophy:
 
 <sub>I became an [accidental open source contributor](https://github.com/nicobailon/pi-subagents/pull/1804).</sub>
 
+![amount of lies](./assets/lies-chart.png)
+
 ## 🧠 Some thoughts
 
 Everybody develops their own opinions, so I am no exception to the rule:
@@ -49,8 +51,6 @@ Everybody develops their own opinions, so I am no exception to the rule:
 - Software [fundamentals matter more than ever](https://youtu.be/v4F1gFy-hqg)
 - Own your [harness](https://earendil.com/posts/what-is-a-harness/) and keep it [minimal](https://www.youtube.com/watch?v=RjfbvDXpFls) — models come and go
 - Use AI to make answers [clearer, not longer](https://noslopgrenade.com/), and [don't paste the AI](https://dontpastetheai.com/)
-
-![amount of lies](./assets/lies-chart.png)
 
 ![digimon-izzy](./assets/digimon-izzy.gif)
 
