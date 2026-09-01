@@ -39,6 +39,8 @@ Philosophy:
 
 <p align="center">
   <img src="./assets/lies-chart-rounded.png" alt="amount of lies">
+  <br>
+  <sub>why docs should note decisions, not retell the code</sub>
 </p>
 
 ## 🧠 Some thoughts
@@ -55,6 +57,8 @@ Everybody develops their own opinions, so I am no exception to the rule:
 
 <p align="center">
   <img src="./assets/digimon-izzy-rounded.gif" alt="digimon-izzy">
+  <br>
+  <sub>actual footage of me at work</sub>
 </p>
 
 You have reached the end of this profile.
