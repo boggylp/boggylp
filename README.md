@@ -48,7 +48,6 @@ Everybody develops their own opinions, so I am no exception to the rule:
 - Terminal is your friend, shoutout to all open source devs working on amazing terminal tools like [fzf](https://github.com/junegunn/fzf), [zoxide](https://github.com/ajeetdsouza/zoxide)...
 - Big fan of keeping your documentation close to source code instead of separate locations
 - Software is getting worse in quality, we are riding the wave of technological advancement in hardware 🌶️
-- Tech debt is called debt for a good reason
 - The amount of context a human can grasp is greater than the amount of context a human [communicate](https://www.youtube.com/watch?v=ZSRHeXYDLko)
 - Assume positive intent, with [cooperation](https://www.youtube.com/watch?v=mScpHTIi-kM) we win in the long run
 - Software [fundamentals matter more than ever](https://youtu.be/v4F1gFy-hqg)
