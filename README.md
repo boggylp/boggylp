@@ -25,10 +25,7 @@ Here are some of the technologies I work with regularly:
 
 ## 🤖 Agentic Development
 
-Daily drivers: Claude Code and [Pi](https://github.com/earendil-works/pi).
-
-- Own your [harness](https://earendil.com/posts/what-is-a-harness/) and keep it [minimal](https://www.youtube.com/watch?v=RjfbvDXpFls), models come and go
-- Use AI to make answers [clearer, not longer](https://noslopgrenade.com/), and [don't paste the AI](https://dontpastetheai.com/)
+Daily drivers: Claude Code and [Pi](https://github.com/earendil-works/pi). Own your [harness](https://earendil.com/posts/what-is-a-harness/) and keep it [minimal](https://www.youtube.com/watch?v=RjfbvDXpFls), models come and go. Use AI to make answers [clearer, not longer](https://noslopgrenade.com/), and [don't paste the AI](https://dontpastetheai.com/).
 
 Philosophy:
 
