@@ -49,7 +49,6 @@ Everybody develops their own opinions, so I am no exception to the rule:
 - Assume positive intent, with [cooperation](https://www.youtube.com/watch?v=mScpHTIi-kM) we win in the long run
 - Software [fundamentals matter more than ever](https://youtu.be/v4F1gFy-hqg)
 - An agent is a model plus a [harness](https://earendil.com/posts/what-is-a-harness/): own the harness, swap the model
-- A [minimal harness](https://www.youtube.com/watch?v=RjfbvDXpFls) resists agent-made complexity
 - Use AI to make answers [clearer, not longer](https://noslopgrenade.com/), and [don't paste the AI](https://dontpastetheai.com/)
 
 ![amount of lies](./assets/amount-of-lies.png)
