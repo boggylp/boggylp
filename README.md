@@ -43,7 +43,6 @@ Everybody develops their own opinions, so I am no exception to the rule:
 
 - "It depends", on what? Developer communication should be as clear as possible
 - Try to automate your repeatable simple work
-- Learn you keyboard shortcuts in your editor of choice
 - Documentation stays close to the code and notes decisions, not what the code already says
 - Software is getting worse in quality, we are riding the wave of technological advancement in hardware 🌶️
 - The amount of context a human can grasp is greater than the amount of context a human [communicate](https://www.youtube.com/watch?v=ZSRHeXYDLko)
