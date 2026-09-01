@@ -1,6 +1,6 @@
 # Hi, I'm Goran, nice to meet you
 
-Welcome to my GitHub! I'm a freelance full-stack software engineer specialized in cloud-based solutions using .NET and Azure.
+Welcome to my GitHub! I'm a freelance full-stack software engineer specialized in cloud-based solutions using .NET and Azure. I contribute to many clients' internal shared packages and frameworks on all fronts: frontend, backend, and DevOps.
 
 ## 🛠️ My Toolbox
 
