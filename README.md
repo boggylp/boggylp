@@ -43,12 +43,12 @@ Philosophy:
 
 Everybody develops their own opinions, so I am no exception to the rule:
 
-- "It depends", on what? Developer communication should be as clear as possible
-- Try to automate your repeatable simple work
-- Documentation stays close to the code and notes decisions, not what the code already says
 - Good primitives beat special cases: one that composes replaces them all
-- Software is getting worse in quality, we are riding the wave of technological advancement in hardware 🌶️
+- Documentation stays close to the code and notes decisions, not what the code already says
+- Try to automate your repeatable simple work
 - The amount of context a human can grasp is greater than the amount they can [communicate](https://www.youtube.com/watch?v=ZSRHeXYDLko)
+- "It depends", on what? Developer communication should be as clear as possible
+- Software is getting worse in quality, we are riding the wave of technological advancement in hardware 🌶️
 - Software [fundamentals matter more than ever](https://youtu.be/v4F1gFy-hqg)
 
 ![digimon-izzy](./assets/digimon-izzy.gif)
