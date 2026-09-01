@@ -2,7 +2,7 @@
 
 > "Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better." - Edsger W. Dijkstra
 
-Welcome to my GitHub! I'm a freelance full-stack software engineer specialized in cloud-based solutions using .NET and Azure. I contribute to many clients' internal shared packages and frameworks on all fronts: frontend, backend, and DevOps.
+Welcome to my GitHub! I'm a freelance full-stack software engineer specializing in cloud-based solutions using .NET and Azure. I contribute to many clients' internal shared packages and frameworks on all fronts: frontend, backend, and DevOps.
 
 ## 🛠️ My Toolbox
 
@@ -16,12 +16,12 @@ Here are some of the technologies I work with regularly:
   <img src="./assets/typescript.png" width="32" height="32" alt="typescript">
 </div>
 
-- Languages: C#, JavaScript/TypeScript, Python, Go, Powershell (and Rust, if I ever find the time)
+- Languages: C#, JavaScript/TypeScript, Python, Go, PowerShell (and Rust, if I ever find the time)
 - Frontend: React, Redux, TanStack Query, Webpack, Rspack, Tailwind CSS
 - Backend: Microsoft .NET, Python
 - Cloud & DevOps: Azure Services (Functions, App Services, Storage), Azure Bicep
-- Databases: SQL Server, SQLite, Azure Cosmos Db, Azure Table storage
-- Other Tools: Git, Azure pipelines for CI/CD
+- Databases: SQL Server, SQLite, Azure Cosmos DB, Azure Table Storage
+- Other Tools: Git, Azure Pipelines for CI/CD
 
 ## 🤖 Agentic Development
 
@@ -51,7 +51,7 @@ Everybody develops their own opinions, so I am no exception to the rule:
 - Documentation stays close to the code and notes decisions, not what the code already says
 - Good primitives beat special cases: one that composes replaces them all
 - Software is getting worse in quality, we are riding the wave of technological advancement in hardware 🌶️
-- The amount of context a human can grasp is greater than the amount of context a human [communicate](https://www.youtube.com/watch?v=ZSRHeXYDLko)
+- The amount of context a human can grasp is greater than the amount they can [communicate](https://www.youtube.com/watch?v=ZSRHeXYDLko)
 - Software [fundamentals matter more than ever](https://youtu.be/v4F1gFy-hqg)
 
 ![digimon-izzy](./assets/digimon-izzy.gif)
