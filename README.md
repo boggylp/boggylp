@@ -1,6 +1,6 @@
 # Hi, I'm Goran, nice to meet you
 
-Welcome to my GitHub! I'm a freelance full-stack software engineer specialized in cloud-based solutions using .NET and Azure. These days most of my energy goes into agentic development: building, wiring, and reviewing AI coding agents and the tooling around them.
+Welcome to my GitHub! I'm a freelance full-stack software engineer specialized in cloud-based solutions using .NET and Azure.
 
 ## 🛠️ My Toolbox
 
@@ -20,13 +20,6 @@ Here are some of the technologies I work with regularly:
 - Cloud & DevOps: Azure Services (Functions, App Services, Storage), Azure Bicep
 - Databases: SQL Server, Azure Cosmos Db, Azure Table storage
 - Other Tools: Git, Azure pipelines for CI/CD
-- Agentic development: Claude Code, [Pi](https://github.com/earendil-works/pi), custom skills, subagents, and multi-agent workflows
-
-## 🌍 Open Source
-
-Contributions I'm happy about:
-
-- [pi-subagents](https://github.com/nicobailon/pi-subagents), the async subagent delegation extension for [Pi](https://github.com/earendil-works/pi): fixed a leak where active async capacity was never released after terminal workflow settlement ([#1804](https://github.com/nicobailon/pi-subagents/pull/1804)), and I keep a [fork](https://github.com/boggylp/pi-subagents) where I experiment with the extension
 
 ## Some thoughts 🧠
 
@@ -40,8 +33,6 @@ Everybody develops their own opinions, so I am no exception to the rule:
 - Big fan of keeping your documentation close to source code instead of separate locations
 - Software is getting worse in quality, we are riding the wave of technological advancement in hardware 🌶️
 - Tech debt is called debt for a good reason
-
-![the further you get from the code, the more lies](./assets/amount-of-lies.png)
 
 General inspirations:
 
