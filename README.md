@@ -33,7 +33,7 @@ Philosophy:
 - Tool-agnostic. Works with any agent that reads markdown.
 - No vendor lock-in. Plain markdown files, no proprietary formats.
 
-<sub>How I became an accidental open source contributor: my agent hit an async capacity leak in [pi-subagents](https://github.com/nicobailon/pi-subagents), debugged the harness it was running in, and shipped the fix ([#1804](https://github.com/nicobailon/pi-subagents/pull/1804)). I mostly watched.</sub>
+<sub>I became an [accidental open source contributor](https://github.com/nicobailon/pi-subagents/pull/1804).</sub>
 
 ## Some thoughts 🧠
 
