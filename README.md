@@ -35,6 +35,12 @@ Philosophy:
 - Tool-agnostic. Works with any agent that reads markdown.
 - No vendor lock-in. Plain markdown files, no proprietary formats.
 
+<p align="center">
+  <img src="./assets/ai-setup-primitives.webp" alt="Animated terminal tour of my AI setup primitives: always-loaded AGENTS.md layers pointing at on-demand personas, standards, skills, and the memory vault">
+  <br>
+  <sub>my AI setup primitives, animated right in the terminal</sub>
+</p>
+
 <sub>I became an [accidental open source contributor](https://github.com/nicobailon/pi-subagents/pull/1804).</sub>
 
 <p align="center">
