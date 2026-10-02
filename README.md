@@ -36,7 +36,10 @@ Philosophy:
 - No vendor lock-in. Plain markdown files, no proprietary formats.
 
 <p align="center">
-  <img src="./assets/ai-setup-primitives.webp" width="953" alt="Animated terminal tour of my AI setup primitives: always-loaded AGENTS.md layers pointing at on-demand personas, standards, skills, and the memory vault">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/ai-setup-primitives.webp">
+    <img src="./assets/ai-setup-primitives-light.webp" width="997" alt="Animated terminal tour of my AI setup primitives: always-loaded AGENTS.md layers pointing at on-demand personas, standards, skills, and the memory vault">
+  </picture>
   <br>
   <sub>my AI setup primitives, animated right in the terminal</sub>
 </p>
