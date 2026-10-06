@@ -38,7 +38,7 @@ Philosophy:
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/ai-setup-primitives.webp">
-    <img src="./assets/ai-setup-primitives-light.webp" width="997" alt="Animated terminal tour of my AI setup primitives: always-loaded AGENTS.md layers pointing at on-demand personas, standards, skills, and the memory vault">
+    <img src="./assets/ai-setup-primitives-light.webp" width="1437" alt="Animated terminal tour of my AI setup primitives: always-loaded AGENTS.md layers pointing at on-demand personas, standards, skills, and the memory vault, and skills running apps">
   </picture>
   <br>
   <sub>my AI setup primitives, animated right in the terminal</sub>
